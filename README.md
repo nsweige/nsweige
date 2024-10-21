@@ -8,7 +8,7 @@
 
 ## 🔍 O que eu faço:
 
-- 📚 **Análise de Dados**: Trabalho com análise de dados educacionais, com enfoque no ensino médio da rede pública do Rio Grande do Sul.
+- 📚 **Análise de Dados**: Trabalho com análise de dados educacionais, com enfoque no ensino médio da rede pública do Rio Grande do Sul (ex.: [TCC](https://lume.ufrgs.br/handle/10183/279152)).
 - 🖥️ **Automação**: Tenho interesse e experiência em automação para facilitar tarefas repetitivas e otimizar fluxos de trabalho.
 - 🐍 **Python**: Utilizo Python diariamente para manipulação, análise de dados e automações.
 - 🗄️ **SQL**: Manipulo e estruturo grandes volumes de dados educacionais.
